@@ -1,4 +1,4 @@
-# 🚀 Python Extension: Repeat Functionality Specification
+# 🚀 Easy Class: Repeat Functionality Specification
 
 ## 🌐 Overview
 This extension enhances Python by allowing the repetition of print statements and method calls using the `*` operator followed by a numeric value, indicating the number of repetitions. It's designed to simplify repetitive tasks in coding by streamlining multiple executions.

@@ -7,8 +7,8 @@ with open(os.path.join(here, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='easypy',
-    version='0.1.0',
+    name='ezcls',
+    version='0.2.2',
     description='A python package helps in repeating your print statements and calling classes as much as you needed with *',
     long_description=long_description,
     long_description_content_type='text/markdown',
